@@ -1,4 +1,4 @@
-**Project for Object Oriented Programming course **
+# Project for Object Oriented Programming course 
 
 Written by:
 * Askil Amundøy Olsen    
