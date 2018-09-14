@@ -1,0 +1,59 @@
+DELTAGERE-FILFORMAT
+<antall elementer i listen>
+<ID>
+<navn>
+<IOC>
+<kjonn, 1 = mann el. 0 = kvinne>
+
+GRENER-FILFORMAT
+<antall elementer(grener) i listen>
+<lastID, siste bruke øvelses-ID>
+<navn på gren>
+<Målt i poeng(1) eller tid(0)
+<Antall siffer>
+<Antall events>
+<ID på øvelse>
+<navn på øvelse>
+<hh, klokkeslett - time>
+<mm, klokkeslett - minutt>
+<dag>
+<måned>
+<år>
+
+MEDALJER-FILFORMAT
+<IOC>
+<ant. gull>
+<ant. sølv>
+<ant. bronse>
+
+POENG-FILFORMAT
+<IOC>
+<poeng>
+
+NASJONER-FILFORMAT
+<antall elementer i listen>
+<IOC>
+<fullt navn>
+<kontaktnavn>
+<kontakt-tlf>
+<antall deltagere under nasjon>
+<IOC>
+<fullt navn>
+<kontaktnavn>
+<kontakt-tlf>
+<antall deltagere under nasjon>
+<IOC>
+<fullt navn>
+<kontaktnavn>
+<kontakt-tlf>
+<antall deltagere under nasjon>
+
+OV RES-FILFORMAT
+<antall elementer>
+<plassering>
+<ID>
+<resultat. poeng/tid>
+
+OV STA-FILFORMAT
+<antall elementer>
+<ID>

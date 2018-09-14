@@ -1,0 +1,32 @@
+N N - registrateNation();
+N E - editNation();
+N A - displayAllNations();
+N T - displaySquad();
+N S - displayNation();
+
+D N - registrateCompetitor();
+D E - editCompetitor();
+D A - displayAllCompetitors();
+D S - displayCompetitor();
+
+G N - registrateEvent();
+G E - editEvent();
+G A - displayAllEvents();
+G S - displayEvent();          
+
+O N - registrateCompetition();
+O E - editCompetition();
+O F - deleteCompetition();
+O A - displayAllCompetitions();         //samme som G S
+ 
+L S - displayStarterList(); 
+L N - registrateStarterList();
+L E - editStarterList();
+L F - deleteStarterList();
+
+R S - displayResults();
+R N - registrateResults();
+R F - deleteResults(); 
+R M - displayMedals();
+R P - displayPoints();
+R X - quitProgram

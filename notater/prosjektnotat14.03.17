@@ -1,0 +1,7 @@
+Time: Tirsdag 14.04.2017
+
+Sentralisert vs distribuert
+
+#git *.cpp/h/dta
+
+.gitignore for å inkludere ting som ikke skal være med i push (binære filer)
